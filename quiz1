@@ -1,0 +1,16 @@
+Quiz 1: DDoS attacks, cybercrime, and underground economy
+
+Q1: T/F: An attacker that uses large botnet to make requests to a server to flood is an example of amplification attack. 
+Answer: True
+
+Q2: T/F: Unlike UDP, TCP has the necessary safeguards in place to prevent network DoS.
+Answer: False
+
+Q3: Which of the following actors are part of the cyber crime underground economy? 
+Answer: All of the above
+
+Q4: Which of the following is/are NOT a potential network DoS mitigation? 
+Answer: Use only TCP & Increase UDP 3-way handshake
+
+Q5: In 2015, GitHub was a victim of a distributed denial of service attack. The attackers injected malicious JavaScript code in GitHub's web pages.
+Answer: False
