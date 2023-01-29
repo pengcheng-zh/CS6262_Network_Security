@@ -1,0 +1,34 @@
+Quiz 2 : Penetration Testing & Browser Security Model
+
+
+Q1: Which of the following is not used for scanning in a Penetration Test?
+Answer: john the ripper
+
+Q2: A security company controls two websites “goodsecurity.com” and “learnhacking.com”. 
+  A web page from “goodsecurity.com” wants to access content from the server of “learnhacking.com”. 
+  Which of the following mechanisms can be used by the developers at “learnhacking.com” 
+  to allow “goodsecurity.com” to access their content?
+Answer: Cross Origin Resource Sharing
+
+Q3: Which of the following is/are social engineering techniques:
+Answer: all
+
+Q4: T/F. Subresource integrity uses cryptographic hash to make sure that a webpage subresources are delivered without changes.
+Answer: True
+
+Q5: Cookie 1 information: name=cookie1; domain: cs6262.gatech.com; path: /canvas
+    Cookie 2 information: name=cookie2; domain: cs6262.gatech.edu; path: /
+    Which of the following is true about the above cookies information
+Answer: The browser can send cookie2 to mail.cs6262.gatech.edu host
+
+Q6: http://goodsecurity.com can access DOM for which of the following origins under the Same Origin Policy?
+Answer: http://goodsecurity.com:80/admin
+
+Q7: Cookies have integrity because a user cannot change and cannot delete cookie values. 
+Answer: False
+
+Q8: Which of the following is not a recommendation for countering social engineering attacks?
+Answer: Allow repairmen and visitors to walk around the office or sensitive areas without an escort.
+
+
+email me: zhangpch666@163.com
